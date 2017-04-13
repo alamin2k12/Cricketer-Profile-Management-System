@@ -1,0 +1,4 @@
+INSERT INTO BOARD VALUES(1250,'BANGLADESH CRICKET BOARD','bangladeshcricketboard1250@gmail.com','BANGLADESH');
+
+
+
